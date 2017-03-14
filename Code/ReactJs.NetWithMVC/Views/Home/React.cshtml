@@ -1,0 +1,16 @@
+﻿@model IEnumerable<ReactJs.NetWithMVC.Models.CommentModel>
+
+@{
+    ViewBag.Title = " ReactJs.Net App";
+}
+
+<style>
+    .comment {
+        padding-bottom: 10px;
+    }
+</style>
+
+<h2>ReactJs.Net App With Server-Side Rendering</h2>
+
+<!-- React Component-->
+@Html.React("CommentBox", new { initialData = Model, url = Url.Action("Comments"), submitUrl = Url.Action("AddComment") })

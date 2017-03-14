@@ -1,0 +1,9 @@
+https://reactjs.net/getting-started/tutorial_aspnet4.html
+https://github.com/reactjs/React.NET
+https://facebook.github.io/react/docs/jsx-in-depth.html
+
+-----------------------------
+
+https://www.accelebrate.com/blog/the-real-benefits-of-the-virtual-dom-in-react-js/
+http://blog.andrewray.me/reactjs-for-stupid-people/
+https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
